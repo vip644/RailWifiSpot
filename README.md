@@ -2,6 +2,6 @@
 Application which will show the location for wifi hotspot!
 
 Kotlin, 
-MVVM architecture, 
+MVVM with LiveData, 
 Localization, 
 Google Map API.
